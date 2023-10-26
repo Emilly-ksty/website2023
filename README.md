@@ -1,2 +1,2 @@
 # website2023
-site desenvolvido de Pensamento Computacional
+site desenvolvido nas aulas de Pensamento Computacional
